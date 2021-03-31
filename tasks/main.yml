@@ -1,0 +1,6 @@
+---
+# tasks file for dummy_role
+- name: "DEBUG"
+  debug:
+    msg: 
+      - "HELLO"
